@@ -1,10 +1,11 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 5 L01 SCELE Related
-ZCZC W00 60 L02 ZOOM related
-ZCZC W00 20 L01 SCELE Related
-ZCZC W00 5 L14 Assignment #4
-ZCZC W00 5 L11 Assignment #1
-ZCZC W00 15 L12 Assignment #2
-ZCZC W00 15 L05 GSGS Related
+ZCZC W00 5 L01 Enroll OS211 Course
+ZCZC W00 100 L02 Attended Weekly Zoom Meeting
+ZCZC W00 20 L01 Read all forum
+ZCZC W00 5 L14 Course Registration
+ZCZC W00 5 L11 Create GitHub Public Repository ”os211”
+ZCZC W00 15 L12 Start Week 00 Log
+ZCZC W00 15 L05 Finding how to activate GitHub Page
+ZCZC W00 10 L13 Create ”os211” GitHub Page

@@ -9,3 +9,4 @@ ZCZC W00 5 L11 Create GitHub Public Repository ”os211”
 ZCZC W00 15 L12 Start Week 00 Log
 ZCZC W00 15 L05 Finding how to activate GitHub Page
 ZCZC W00 10 L13 Create ”os211” GitHub Page
+ZCZC W00 15 L23 Discord: Read all of information

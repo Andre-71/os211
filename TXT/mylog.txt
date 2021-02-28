@@ -12,3 +12,4 @@ ZCZC W00 10 L13 Create ”os211” GitHub Page
 ZCZC W00 15 L23 Discord: Read all of information
 ZCZC W00 15 L06 Reading W00 Slide
 ZCZC W00 10 L09 AsDos: Asking about things that I have to do
+ZCZC W00 30 L06 Reading Operating System Concepts (Silberschatz et.al.) slide, Part 1 : Overview

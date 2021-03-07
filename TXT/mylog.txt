@@ -28,3 +28,9 @@ ZCZC W01 5 L05 Solve sudo and git command not found
 ZCZC W01 45 L15 Clone my os211 repo to Debian, copy WEEK01 files from SistemOperasi/Demos/WEEK01 to mydemo directory at home
 ZCZC W01 30 L16 Update mylog.txt with what I doing in Week 01 and push it to my os211 repo in GitHub
 ZCZC W01 10 L09 Asking other method to copy and paste (wget), what I must do with demo files in assignment 5, and how to write log description correctly
+ZCZC W01 130 L17 Create w01.md file that contain my weekly top 10 list and connected this file to README.md
+ZCZC W01 60 L12 Learning references that stated in os01.pdf page 19
+ZCZC W01 120 L13 Trying to do what assignment ask that stated in os01.pdf page 20 until 23
+ZCZC W01 90 L18 Familiarize command that listed in os01.pdf page 31 until 38
+ZCZC W01 60 L19 Trying to read OSC10 Chapter that listed in assignment 9
+

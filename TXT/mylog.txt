@@ -13,3 +13,18 @@ ZCZC W00 15 L23 Discord: Read all of information
 ZCZC W00 15 L06 Reading W00 Slide
 ZCZC W00 10 L09 AsDos: Asking about things that I have to do
 ZCZC W00 30 L06 Reading Operating System Concepts (Silberschatz et.al.) slide, Part 1 : Overview
+ZCZC W01 115 L02 Attending Weekly Zoom Meeting
+ZCZC W01 60 L05 Finding the answer to the pop quiz held on Tuesday
+ZCZC W01 5 L00 Send my Tuesday pop quiz answer to the lecturer via email
+ZCZC W01 35 L05 Finding the answer to the pop quiz held on Thursday
+ZCZC W01 5 L23 Send my answer via bot to the pop quiz held on Thursday
+ZCZC W01 15 L01 Check if there is new information at SCELE and read them
+ZCZC W01 170 L11 Create and also setting up new Debian guest on virtual box
+ZCZC W01 65 L22 Trying to figure out why the cursor does not appear in Debian
+ZCZC W01 60 L05 Trying to figure out why the cursor does not appear in Debian
+ZCZC W01 30 L13 Learning basic of vi
+ZCZC W01 30 L14 Create a new user because my GitHub username has a capital letter and also setting up .bash_aliases
+ZCZC W01 5 L05 Solve sudo and git command not found
+ZCZC W01 45 L15 Clone my os211 repo to Debian, copy WEEK01 files from SistemOperasi/Demos/WEEK01 to mydemo directory at home
+ZCZC W01 30 L16 Update mylog.txt with what I doing in Week 01 and push it to my os211 repo in GitHub
+ZCZC W01 10 L09 Asking other method to copy and paste (wget), what I must do with demo files in assignment 5, and how to write log description correctly

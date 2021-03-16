@@ -33,4 +33,20 @@ ZCZC W01 60 L12 Learning references that stated in os01.pdf page 19
 ZCZC W01 120 L13 Trying to do what assignment ask that stated in os01.pdf page 20 until 23
 ZCZC W01 90 L18 Familiarize command that listed in os01.pdf page 31 until 38
 ZCZC W01 60 L19 Trying to read OSC10 Chapter that listed in assignment 9
-
+ZCZC W02 100 L02 Attending weekly zoom meeting
+ZCZC W02 50 L05 Finding answer of pop quiz questions held on Tuesday, 9 March 2021
+ZCZC W02 10 L00 Answering pop quiz questions held on Tuesday, 9 March 2021, via email to lecturer
+ZCZC W02 25 L05 Finding answer of pop quiz questions held on Tuesday, 16 March 2021
+ZCZC W02 5 L23 Answer pop quiz questions held on Tuesday, 16 March 2021
+ZCZC W02 90 L05 Finding how to solve gpg command didn't recognize
+ZCZC W02 5 L14 Generate a GnuPG Key Pair
+ZCZC W02 15 L15 Import the operatingsystems@vlsm.org Public Key
+ZCZC W02 15 L16 Export Andre-71 public key to be displayed on GitHub Pages
+ZCZC W02 30 L23 Read unreaded infromations along Week-02
+ZCZC W02 45 L19 Copy myscripts.sh and rewrite REC2
+ZCZC W02 5 L20 Make SHA256SUM and sign it as SHA256SUM.asc
+ZCZC W02 180 L12 Read OSC10 Chapter 16 and Chapter 17
+ZCZC W02 180 L18 Update my Top 10 List of Week 02
+ZCZC W02 30 L17 Pick best 3 of my 10 neighbours W01 Top 10 List and place it in myrank.txt
+ZCZC W02 120 L13 Trying Demo Week2
+ZCZC W02 20 L20 Updating mylog.txt

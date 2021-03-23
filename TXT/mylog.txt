@@ -50,3 +50,19 @@ ZCZC W02 180 L18 Update my Top 10 List of Week 02
 ZCZC W02 30 L17 Pick best 3 of my 10 neighbours W01 Top 10 List and place it in myrank.txt
 ZCZC W02 120 L13 Trying Demo Week2
 ZCZC W02 20 L20 Updating mylog.txt
+ZCZC W03 60 L11 Reading Operating System Concepts (Silberschatz et.al.) slide, Chapter 13, 14, and Chapter 15
+ZCZC W03 30 L13 Recheck my .bash_aliases file with .bash_aliases in https://osp4diss.vlsm.org/MoreGNULinux.html#dotbash_aliases, and also testing sss alias, gitstat, chktoken, verifyToken method
+ZCZC W03 30 L17 Download W03.tar.bz2.asc and place the result "W03-FUSE.txt" into W03/ folder
+ZCZC W03 20 L18 Make myscript.sh up to date
+ZCZC W03 5 L17 Tarballed "W03-FUSE.txt" as myW03.tar.bz2.asc
+ZCZC W03 90 L21 Setting up VirtualBox again so it solve 000-README.txt
+ZCZC W03 60 L15 Find and list 10 link (site or vide) that interesting from week 03
+ZCZC W03 15 L14 Find and list 3 neighbor github username that have interesting "Top 10 list" of week 2
+ZCZC W03 10 L12 Continue trying Demos week 02 and also trying demos week 03
+ZCZC W03 15 L16 Update mylog.txt for my activity in week 03
+ZCZC W03 5 L19 Make SHA256SUM and sign it again for week 03 update
+ZCZC W03 30 L05 Find out answer of pop quiz held on Thursday this week
+ZCZC W03 30 L05 Find out answer of pop quiz held on Tuesday this week
+ZCZC W03 5 L23 Answer Tuesday pop quiz
+ZCZC W03 5 L00 Answer Thursday pop quiz
+ZCZC W03 100 L02 Attending weekly class

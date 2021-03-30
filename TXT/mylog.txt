@@ -66,3 +66,16 @@ ZCZC W03 30 L05 Find out answer of pop quiz held on Tuesday this week
 ZCZC W03 5 L23 Answer Tuesday pop quiz
 ZCZC W03 5 L00 Answer Thursday pop quiz
 ZCZC W03 100 L02 Attending weekly class
+ZCZC W04 100 L02 Attending Weekly Zoom Meeting
+ZCZC W04 20 L01 Make public/private rsa key pair 4096 bit for Quiz 1 in Week 4
+ZCZC W04 30 L23 Answer Pop Quiz that held in Tuesday in Week 4
+ZCZC W04 60 L11 Reading OSC-10 Chapter 9
+ZCZC W04 30 L12 Trying week 04 demos
+ZCZC W04 5 L05 Handle error sys/capability.h: No such file or directory and sys/acl.h: No such file or directory when do this command "bash 000-README.txt"
+ZCZC W04 45 L16 Resulting WEEK-04-TLPI.txt and tarball it
+ZCZC W04 5 L17 Update myscript.sh
+ZCZC W04 2 L18 Make SHA256SUM and sign it
+ZCZC W04 10 L12 Trying again demos, but demos before week 04
+ZCZC W04 30 L13 Take best 3 of "Top 10 List Weeek 3" from my neighbors github pages
+ZCZC W04 90 L14 Create my top 10 list for week 04
+ZCZC W04 10 L15 Updating this (mylog.txt)

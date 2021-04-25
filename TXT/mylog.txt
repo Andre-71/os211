@@ -98,3 +98,5 @@ ZCZC W06 2 L16 Make SHA256SUM and sign it
 ZCZC W06 5 L12 Choose best 3 W05 TOP 10 List from neighbors
 ZCZC W06 60 L11 Read OSC10 Chapter 03 and 04
 ZCZC W06 5 L15 Update mylog.txt
+ZCZC W06 120 L13 Creating my TOP 10 List of Week 06
+ZCZC W06 2 L15 Update again mylog.txt

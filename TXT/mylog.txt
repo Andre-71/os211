@@ -79,3 +79,22 @@ ZCZC W04 10 L12 Trying again demos, but demos before week 04
 ZCZC W04 30 L13 Take best 3 of "Top 10 List Weeek 3" from my neighbors github pages
 ZCZC W04 90 L14 Create my top 10 list for week 04
 ZCZC W04 10 L15 Updating this (mylog.txt)
+ZCZC W05 100 L02 Attending Weekly Zoom Meeting
+ZCZC W05 20 L00 Find how to answer first pop quiz
+ZCZC W05 5 L01 Answer first pop quiz
+ZCZC W05 25 L00 Find how to answer second pop quiz
+ZCZC W05 5 L23 Answer second pop quiz
+ZCZC W05 45 L14 Make WEEK05-DEMO05.txt and tarballed it
+ZCZC W05 2 L16 Make SHA256SUM and sign it
+ZCZC W05 5 L12 Choose best 3 W04 TOP 10 List from neighbors
+ZCZC W05 10 L15 Update mylog.txt
+ZCZC W06 100 L02 Attending Weekly Zoom Meeting
+ZCZC W06 20 L00 Find how to answer first pop quiz
+ZCZC W06 10 L01 Answer first pop quiz
+ZCZC W06 25 L00 Find how to answer second pop quiz
+ZCZC W06 5 L01 Answer second pop quiz
+ZCZC W06 30 L14 Make WEEK06-FORK.txt and tarballed it
+ZCZC W06 2 L16 Make SHA256SUM and sign it
+ZCZC W06 5 L12 Choose best 3 W05 TOP 10 List from neighbors
+ZCZC W06 60 L11 Read OSC10 Chapter 03 and 04
+ZCZC W06 5 L15 Update mylog.txt

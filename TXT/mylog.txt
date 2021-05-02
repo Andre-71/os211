@@ -100,3 +100,18 @@ ZCZC W06 60 L11 Read OSC10 Chapter 03 and 04
 ZCZC W06 5 L15 Update mylog.txt
 ZCZC W06 120 L13 Creating my TOP 10 List of Week 06
 ZCZC W06 2 L15 Update again mylog.txt
+ZCZC W07 110 L02 Attending Weekly Zoom Meeting
+ZCZC W07 20 L05 Find information about how to generate time in script
+ZCZC W07 15 L08 Trying to open Tuesday Quiz Question
+ZCZC W07 10 L01 Answering Tuesday Quiz
+ZCZC W07 10 L05 Find answer for Thursday Quiz
+ZCZC W07 5 L05 Reading PPT for answer Thursday Quiz
+ZCZC W07 10 L08 Trying code to understand Thursday Quiz
+ZCZC W07 5 L02 Answering Thursday Quiz
+ZCZC W07 3 L07 Demo to assistan lecture for checking
+ZCZC W07 60 L11 Reading OSC Lecture for this Week (Chapter 06 + 07 + 08)
+ZCZC W07 70 L14 Tarball all report files + sync
+ZCZC W07 180 L13 Create TOP 10 List for this week
+ZCZC W07 5 L12 Review neighbours and choose 3 of them for rank
+ZCZC W07 10 L15 Update mylog.txt for this week activity
+ZCZC W07 3 L16 Make SHA256SUM and sign it

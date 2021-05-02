@@ -7,6 +7,7 @@ Operating Systems 2021-1
 [W04](W04/) |
 [W05](W05/) |
 [W06](W06/) |
+[W07](W07/) |
 [RANK](TXT/myrank.txt) |
 [KEY](TXT/mypubkey.txt) |
 [Log](TXT/mylog.txt) |

@@ -115,3 +115,15 @@ ZCZC W07 180 L13 Create TOP 10 List for this week
 ZCZC W07 5 L12 Review neighbours and choose 3 of them for rank
 ZCZC W07 10 L15 Update mylog.txt for this week activity
 ZCZC W07 3 L16 Make SHA256SUM and sign it
+ZCZC W08 200 L02 Attending Weekly Zoom Meeting
+ZCZC W08 25 L05 Find information about how to answer Tuesday Pop Quiz, such as grep and many more
+ZCZC W08 5 L00 Answer Tuesday Pop Quiz Question
+ZCZC W08 25 L06 Reading OSC Chapter 5 Powerpoint to know answer of Thursday Pop Quiz
+ZCZC W08 5 L01 Answer Thursday Pop Quiz
+ZCZC W08 5 L09 Asking AsDos about LFS assignment (equality of df command output and base memory)
+ZCZC W08 60 L11 Reading OSC10 Chapter 5
+ZCZC W08 270 L13 Learn and try to build LFS, following instruction of chapter 1 until 4
+ZCZC W08 5 L14 Tarball the result of assignment 3
+ZCZC W08 160 L12 Review neighbours and also make Top 10 for this week
+ZCZC W08 10 L15 Update mylog.txt for this week activity
+ZCZC W08 3 L16 Make SHA256SUM and sign it

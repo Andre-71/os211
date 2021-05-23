@@ -138,3 +138,7 @@ ZCZC W09 1 L23 Answer Friday Quiz
 ZCZC W09 2 L12 Pick 3 of my neighbour for myrank
 ZCZC W09 10 L16 Update mylog.txt for Week 09
 ZCZC W09 2 L17 Make SHA256SUM and sign it
+ZCZC W09 600 L14 Do LFS Chapter 05 - Chapter 07
+ZCZC W09 3 L15 Tarball reports
+ZCZC W09 5 L16 Update again mylog.txt
+ZCZC W09 3 L17 Make SHA256SUM again

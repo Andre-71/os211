@@ -142,3 +142,6 @@ ZCZC W09 600 L14 Do LFS Chapter 05 - Chapter 07
 ZCZC W09 3 L15 Tarball reports
 ZCZC W09 5 L16 Update again mylog.txt
 ZCZC W09 3 L17 Make SHA256SUM again
+ZCZC W09 210 L13 Create Week 09 Top 10 List
+ZCZC W09 1 L16 Update again mylog.txt
+ZCZC W09 1 L17 Make SHA256SUM again and sign it again

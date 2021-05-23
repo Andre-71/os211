@@ -127,3 +127,14 @@ ZCZC W08 5 L14 Tarball the result of assignment 3
 ZCZC W08 160 L12 Review neighbours and also make Top 10 for this week
 ZCZC W08 10 L15 Update mylog.txt for this week activity
 ZCZC W08 3 L16 Make SHA256SUM and sign it
+ZCZC W09 120 L02 Attending Weekly Zoom Meeting
+ZCZC W09 75 L01 Read info and prepare about how do Tuesday Quiz
+ZCZC W09 3 L00 Send my answer for Week 09 Q01 Tuesday Quiz
+ZCZC W09 10 L03 Send my answer for Week 09 Q02, Week 09 Q03, Week 09 Q04 Tuesday Quiz
+ZCZC W09 5 L23 Read information about how to do Friday Quiz
+ZCZC W09 20 L11 Read OSC Chapter 11 and also try to find answer for Friday Quiz
+ZCZC W09 9 L05 Find answer for Friday Quiz
+ZCZC W09 1 L23 Answer Friday Quiz
+ZCZC W09 2 L12 Pick 3 of my neighbour for myrank
+ZCZC W09 10 L16 Update mylog.txt for Week 09
+ZCZC W09 2 L17 Make SHA256SUM and sign it
